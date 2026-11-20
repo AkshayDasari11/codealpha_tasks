@@ -1,57 +1,67 @@
-# Student Grade Tracker
+# CodeAlpha Internship Tasks
 
-A Java-based Student Grade Tracker application developed using Object-Oriented Programming (OOP). This project helps manage student records and analyze their academic performance.
+Welcome to my CodeAlpha Internship Projects repository!
 
-## Features
+This repository contains Java projects developed as part of my internship, demonstrating practical implementation of Object-Oriented Programming (OOP), problem-solving, and Java programming concepts.
 
-- Add student details.
-- View all registered students.
-- Store student IDs, names, and marks.
+## Projects
+
+### 1. Student Grade Tracker
+
+A Java-based application designed to manage student records and analyze academic performance.
+
+**Features:**
+- Add student records.
+- View student details.
 - Calculate average marks.
-- Find highest marks.
-- Find lowest marks.
-- Generate a student performance summary.
+- Find highest and lowest marks.
+- Generate student performance summaries.
 
-## Technologies Used
-
+**Technologies Used:**
 - Java
-- Object-Oriented Programming (OOP)
+- OOP
 - ArrayList
 - Scanner Class
 
-## Concepts Used
+### 2. Hotel Reservation System
 
+A Java-based application that simulates basic hotel reservation operations.
+
+**Features:**
+- Display and categorize hotel rooms.
+- Search for available rooms.
+- Book and cancel reservations.
+- Simulate payment processing.
+- View booking details.
+- Manage room availability.
+
+**Technologies Used:**
+- Java
+- OOP
+- ArrayList
+- File Handling
+- Scanner Class
+
+## Technologies & Concepts
+
+- Java Programming
+- Object-Oriented Programming
 - Classes and Objects
 - Constructors
-- Methods
+- Encapsulation
 - ArrayList
-- Enhanced For Loop
-- Conditional Statements
-- Loops
+- Exception Handling
+- File I/O
 
-## How to Run
+## Purpose
 
-1. Clone the repository.
-2. Open the project in VS Code or IntelliJ IDEA.
-3. Compile the Java file:
+The purpose of these projects is to gain practical programming experience, strengthen Java fundamentals, and apply OOP concepts to real-world problems.
 
-   ```bash
-   javac StudentGradeTracker.java
-   ```
+## Internship
 
-4. Run the program:
-
-   ```bash
-   java StudentGradeTracker
-   ```
-
-## Project Objective
-
-To improve practical knowledge of Java programming, OOP concepts, collections, and problem-solving.
+**Organization:** CodeAlpha
 
 ## Author
 
-Akshay Dasari
+**Akshay Dasari**
 
-**Project:** Student Grade Tracker
-**Language:** Java
