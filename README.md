@@ -1,62 +1,57 @@
-# Hotel Reservation System
+# Student Grade Tracker
 
-A console-based Hotel Reservation System developed using Java and Object-Oriented Programming (OOP). This project simulates hotel operations, including room management, reservations, cancellations, and payment processing.
+A Java-based Student Grade Tracker application developed using Object-Oriented Programming (OOP). This project helps manage student records and analyze their academic performance.
 
 ## Features
 
-- Display available hotel rooms.
-- Categorize rooms into Standard, Deluxe, and Suite.
-- Search and manage hotel rooms.
-- Book hotel rooms.
-- Cancel reservations.
-- Simulate payment processing.
-- View booking details.
-- Store booking information using File I/O.
+- Add student details.
+- View all registered students.
+- Store student IDs, names, and marks.
+- Calculate average marks.
+- Find highest marks.
+- Find lowest marks.
+- Generate a student performance summary.
 
 ## Technologies Used
 
 - Java
 - Object-Oriented Programming (OOP)
 - ArrayList
-- File Handling (File I/O)
 - Scanner Class
 
 ## Concepts Used
 
 - Classes and Objects
 - Constructors
-- Encapsulation
 - Methods
 - ArrayList
+- Enhanced For Loop
 - Conditional Statements
 - Loops
-- File Handling
 
 ## How to Run
 
 1. Clone the repository.
 2. Open the project in VS Code or IntelliJ IDEA.
-3. Compile the main Java file:
+3. Compile the Java file:
 
    ```bash
-   javac Main.java
+   javac StudentGradeTracker.java
    ```
 
 4. Run the program:
 
    ```bash
-   java Main
+   java StudentGradeTracker
    ```
-
-*Note: Update the compilation and execution commands if your main class has a different name.*
 
 ## Project Objective
 
-To apply Java OOP concepts in a real-world hotel management scenario and understand room availability, reservation management, and basic data persistence.
+To improve practical knowledge of Java programming, OOP concepts, collections, and problem-solving.
 
 ## Author
 
 Akshay Dasari
 
-**Project:** Hotel Reservation System
+**Project:** Student Grade Tracker
 **Language:** Java
