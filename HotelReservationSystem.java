@@ -202,7 +202,7 @@ class Hotel {
 }
 
 // MAIN CLASS
-public class HotelReservationSytem {
+public class HotelReservationSystem {
 
     public static void main(String[] args) {
 
